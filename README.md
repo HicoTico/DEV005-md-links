@@ -22,7 +22,7 @@ En esta oportunidad bajo el nombre de md-Links se crea una librería que facilit
 
 ## 3. Diagrama de Flujo
 
-Para el desarollo de este proyecto se diseño un Diagrama de flujo, el cual se ejecutò paso a paso mediante mètodo SCRUM.
+Para el desarollo de este proyecto se diseño un [Diagrama de flujo](https://github.com/HicoTico/DEV005-md-links/blob/main/_Diagrama%20de%20flujo-mdlinks.png), el cual se ejecutò paso a paso mediante mètodo SCRUM.
 
 ### JavaScript
 
