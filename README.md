@@ -77,4 +77,4 @@ Ingrese `mdLinks <path-to-file> --stats --validate`
 * [Linea de comando CLI](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
 
 
-                                                                          *La Fuerza esta Contigo*
+ *L a  F u e r z a  e s t â  C o n t i g o*
