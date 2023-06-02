@@ -28,7 +28,7 @@ Para el desarollo de este proyecto se diseño un [Diagrama de flujo](https://git
 
 Ingresando el siguiente comando en la terminal de su Proyecto, podrà llevar esta Libreria a ejecuciòn
 ```sh
-npm i blablabla
+npm i md-lunin-links
 ```
 ## 5. Manual de Usuario
 Luego de instalada la libreria, a travès de la terminal (GitBash recomendado) ingresando las siguientes instrucciones, podràs acceder a los resultados de CLI:
