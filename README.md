@@ -65,10 +65,10 @@ Ingrese `mdLinks <path-to-file> --stats --validate`
 ## 6. Links de Referencias
 
 * [Acerca de Node.js - Documentación oficial](https://nodejs.org/es/about/)
-* [Que es markdown]([https://nodejs.org/api/fs.html](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo))
+* [Que es markdown](https://nodejs.org/api/fs.html](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
 * [Node.js http.get - Documentación oficial](https://nodejs.org/api/http.html#http_http_get_options_callback)
-* [Expresiones Regulares](https://es.wikipedia.org/wiki/Node.js](https://regexr.com/)
-* [Aprende como aplicar Jest Mock](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5](https://developero.io/blog/jest-mock-module-function-class-promises-axios-y-mas)
+* [Expresiones Regulares](https://regexr.com/)
+* [Aprende como aplicar Jest Mock](https://developero.io/blog/jest-mock-module-function-class-promises-axios-y-mas)
 * [Publicar packpage](https://docs.npmjs.com/getting-started/publishing-npm-packages)
 * [Crear módulos en Node.js](https://docs.npmjs.com/getting-started/publishing-npm-packages)
 * [Leer un archivo](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)
@@ -76,3 +76,4 @@ Ingrese `mdLinks <path-to-file> --stats --validate`
 * [Path](https://nodejs.org/api/path.html)
 * [Linea de comando CLI](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
 
+<center>*La Fuerza esta Contigo*</center>
