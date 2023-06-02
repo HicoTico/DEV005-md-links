@@ -20,9 +20,9 @@ Este proyecto se Centra en la creaciòn de una herramienta de línea de comando 
 
 En esta oportunidad bajo el nombre de md-Links se crea una librería que facilita la lecturay análisis de los archivos con formato Markdown, nos alejamos un poco del navegador para construir un programa que se ejecute usando Node.js. como su nombre lo indica su ejecuciòn es a travès de lineas de comandos que nos premiten verificar los enlaces (Links) que se encuentran dentro de directorios y archivos con extension .md, generando estadisticas sobre el total de los mismo, si estos son vâlidos, ùnicos y Rotos.
 
-## 3. Objetivos de aprendizaje
+## 3. Diagrama de Flujo
 
-Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+Para el desarollo de este proyecto se diseño un Diagrama de flujo, el cual se ejecutò paso a paso mediante mètodo SCRUM.
 
 ### JavaScript
 
